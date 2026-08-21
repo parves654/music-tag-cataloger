@@ -1,0 +1,9 @@
+# Generated on 2026-11-10
+*.html linguist-vendored
+yarn.lock linguist-generated
+* text=auto eol=lf
+
+*.htm linguist-vendored
+src/**/*.ts linguist-detectable
+*.min.css linguist-generated
+*.json linguist-detectable=false
